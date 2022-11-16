@@ -36,6 +36,14 @@ Concepto de embeddable: https://www.arquitecturajava.com/ejemplo-jpa-embedded/  
 
 JWT https://www.youtube.com/watch?v=tWQobKFQLG0
 
+Security largo: https://inezpre5.wordpress.com/2019/04/15/jwt-con-spring-boot-mysql-y-angular-7-capitulo-3-rest-service-simple/  -->Varios capitulos
+
+Security corto: https://blog.softtek.com/es/autenticando-apis-con-spring-y-jwt
+
+No reconoce @NotNull o  import javax.validation.constraints.NotNull :https://www.lawebdelprogramador.com/foros/Java/1719575-no-reconoce-notnull.html  + https://mvnrepository.com/artifact/javax.validation/validation-api/1.0.0.GA
+
+
+
 
 
  
